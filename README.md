@@ -207,7 +207,8 @@
 
 ### API 명세서
 
-[API 명세서 Link](https://complex-find-e33.notion.site/API-1f691f0583c74a14b8530626260a66a3)
+- [API 초안 명세서 Link](https://complex-find-e33.notion.site/API-1f691f0583c74a14b8530626260a66a3)
+- [API 명세서 Link](https://white-asher-lab.github.io/SOBORO-API/)
 <br>
 
 ![](./asset/api-docs.png)
